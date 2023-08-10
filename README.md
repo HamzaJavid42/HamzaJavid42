@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HamzaJavid42
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me my email
+- 📫 How to reach me my email(ranahamzaokara47@gmail.com)
 
 <!---
 HamzaJavid42/HamzaJavid42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
